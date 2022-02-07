@@ -6,7 +6,7 @@ Welcome to Miro's Github Page! Here at Miro, we aim to bring teams closer, to be
 
 ---
 
-## Miro Platform
+### Miro Platform
 
 Miro is all about empowering teams to build the next big thing. Providing a set of APIs, a Web SDK, and Live Embed options, developers can utilize Miro's platform to build apps and integrations that supercharge their team's worksflow.
 
