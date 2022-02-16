@@ -8,7 +8,7 @@ In this guide you will get an overview of the contribution workflow from opening
 
 ## New contributor guide
 
-Within Miro's Github, you'll find many different projects you can contribute to. From our repository of [app examples](https://github.com/miroapp/app-examples), to our other open source projects, we invite and encourage you to add your contributions to further better Miro.
+Within Miro's GitHub, you'll find many different projects you can contribute to. From our repository of [app examples](https://github.com/miroapp/app-examples), to our other open source projects, we invite and encourage you to add your contributions to further better Miro.
 
 If you're new on contributing to open source projects, visit the links below to get started.
 
