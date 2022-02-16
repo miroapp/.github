@@ -59,7 +59,7 @@ If you're interested in solving an issue in a repository, start by scanning thro
 
 [Commit your changes](https://github.com/git-guides/git-commit) once you are happy with them. See [Atom's contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages) to know how to use emoji for commit messages!
 
-Once your changes are ready, don't forget to self-review your code to double check that your chagnes are ready to be added.
+Once your changes are ready, don't forget to self-review your code to double check that your changes are ready to be added.
 
 ### Pull Request
 
