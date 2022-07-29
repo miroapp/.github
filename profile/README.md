@@ -12,7 +12,7 @@ Miro is all about empowering teams to build the next big thing. Providing a set 
 
 Version 2.0 of the Miro platform is available as a GA release, and you can get started directly from [our documentation](https://developers.miro.com/). Additionally, you can browse through our [repository of examples and apps](https://github.com/miroapp/app-examples).
 
-_If you're looking for version 1.0, you can visit [the documentation](https://developers.miro.com/docs) or browse through the [examples](https://github.com/miroapp/app-examples)._
+_If you're looking for version 1.0, you can visit [the documentation](https://developers.miro.com/v1.0/docs) or browse through the [examples](https://github.com/miroapp/app-examples/tree/v1)._
 
 ---
 
