@@ -2,7 +2,7 @@
 
 [<img src="profile/banner.png" alt="Miro Developer Platform" />](https://miro.com/about/)
 
-Welcome to Miro's Github page! Here at Miro, we aim to bring teams closer, to be more connected, and to build better products together. Miro empowers remote, in-office, and hybrid teams to communicate and collaborate across formats, tools, channels, and timezones without the constraints of physical location, meeting space, and whiteboards.
+Welcome to Miro's GitHub page! Here at Miro, we aim to bring teams closer, to be more connected, and to build better products together. Miro empowers remote, in-office, and hybrid teams to communicate and collaborate across formats, tools, channels, and timezones without the constraints of physical location, meeting space, and whiteboards.
 
 ---
 
