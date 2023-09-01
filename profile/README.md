@@ -2,20 +2,14 @@
 
 [<img src="profile/banner.png" alt="Miro Developer Platform" />](https://miro.com/about/)
 
-Welcome to Miro's GitHub page! Here at Miro, we aim to bring teams closer, to be more connected, and to build better products together. Miro empowers remote, in-office, and hybrid teams to communicate and collaborate across formats, tools, channels, and timezones without the constraints of physical location, meeting space, and whiteboards.
-
 ---
 
 ### Miro Developer Platform
+Miro provides a visual workspace for distributed teams to dream, design, and build the future together. We empower innovators across organizations to create the next big thing.
 
-Miro is all about empowering teams to build the next big thing. Providing a set of APIs, a Web SDK, and Live Embed options, developers can utilize Miro's platform to build apps and integrations that supercharge their team's workflows.
+As an open and extensible platform, developers can integrate Miro into existing workflows to unlock new levels of team collaboration.
+Build apps and integrations on the [Miro Developer Platform](https://developers.miro.com/) to enable seamless innovation. With our APIs, SDKs, and embed options, you can customize Miro to fit your team's specific needs.
 
-Version 2.0 of the Miro platform is available as a GA release, and you can get started directly from [our documentation](https://developers.miro.com/). Additionally, you can browse through our [repository of examples and apps](https://github.com/miroapp/app-examples).
+At Miro, we strive to create an inclusive environment of belonging, making it possible for diverse teams to innovate as one. If you're interested in joining us, see open opportunities on our [careers page](https://miro.com/careers/).
 
-_If you're looking for version 1.0, you can visit [the documentation](https://developers.miro.com/v1.0/docs) or browse through the [examples](https://github.com/miroapp/app-examples/tree/v1)._
 
----
-
-### Want to know more?
-
-At Miro, we strive to create and foster an environment of belonging and collaboration across cultural differences. Miro's mission — _Empower teams to create the next big thing_ — is how we think about our product, people, and culture. We believe that creating big things requires diverse and inclusive teams. If you're interested in joining the team, head to our [careers page](https://miro.com/careers/) to find open opportunities.
