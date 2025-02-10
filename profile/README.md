@@ -1,6 +1,6 @@
 ## Miro
 
-[<img src="profile/banner.png" alt="Miro Developer Platform" />](https://miro.com/about/)
+[<img src="banner.png" alt="Miro Developer Platform" />](https://miro.com/about/)
 
 ---
 
