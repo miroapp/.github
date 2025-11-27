@@ -1,11 +1,8 @@
 ## Miro
 
-[<img src="banner.png" alt="Miro Developer Platform" />](https://miro.com/about/)
+[<img src="banner.svg" alt="Miro Developer Platform" />](https://miro.com/index/)
 
----
-
-### Miro Developer Platform
-Miro provides a visual workspace for distributed teams to dream, design, and build the future together. We empower innovators across organizations to create the next big thing.
+Miro is the AI Innovation Workspace that brings teams and AI together to plan, co-create, and build the next big thing, faster. Miro empowers over 100M users — including product managers, designers, engineers, and more — to flow from early discovery through final delivery on a shared, AI-first canvas. 
 
 As an open and extensible platform, developers can integrate Miro into existing workflows to unlock new levels of team collaboration.
 Build apps and integrations on the [Miro Developer Platform](https://developers.miro.com/) to enable seamless innovation. With our APIs, SDKs, and embed options, you can customize Miro to fit your team's specific needs.
